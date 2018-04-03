@@ -4,17 +4,21 @@
 
 ## Contents
 
-- Modules
-- Utilities
+- [Game Development](#game-development)
+- [Modules](#modules)
+- [Utilities](#utilities)
+
+## Game Development
+
+- [ChaiLove](https://github.com/libretro/libretro-chailove)
+- [Nymph Game Engine](https://github.com/sainteos/nymph-game-engine)
+- [Spiced](https://github.com/ChaiScript/Spiced)
 
 ## Modules
 
 - [ChaiScript Extras](https://github.com/ChaiScript/ChaiScript_Extras)
-- [Spiced](https://github.com/ChaiScript/Spiced)
 - [imgui-chascript](https://github.com/JuJuBoSc/imgui-chaiscript)
-- [ChaiLove](https://github.com/RobLoach/ChaiLove)
 - [QtChaiScript](https://github.com/facontidavide/QtChaiScript)
-- [Nymph Game Engine](https://github.com/sainteos/nymph-game-engine)
 
 ## Utilities
 
