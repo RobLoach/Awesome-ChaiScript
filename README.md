@@ -1,4 +1,4 @@
-# Awesome ChaiScript
+# Awesome ChaiScript [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of delightful [ChaiScript](http://chaiscript.com) modules and resources.
 
