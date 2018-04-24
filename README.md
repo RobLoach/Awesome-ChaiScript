@@ -10,15 +10,15 @@
 
 ## Game Development
 
-- [ChaiLove](https://github.com/libretro/libretro-chailove)
-- [Nymph Game Engine](https://github.com/sainteos/nymph-game-engine)
-- [Spiced](https://github.com/ChaiScript/Spiced)
+- [ChaiLove](https://github.com/libretro/libretro-chailove) - 2D game framework based on Love2D
+- [Nymph Game Engine](https://github.com/sainteos/nymph-game-engine) - 2D tiled-based game engine
+- [Spiced](https://github.com/ChaiScript/Spiced) - Tiled-based game engine using SFML
 
 ## Modules
 
-- [ChaiScript Extras](https://github.com/ChaiScript/ChaiScript_Extras)
-- [imgui-chascript](https://github.com/JuJuBoSc/imgui-chaiscript)
-- [QtChaiScript](https://github.com/facontidavide/QtChaiScript)
+- [ChaiScript Extras](https://github.com/ChaiScript/ChaiScript_Extras) - Community-contributed ChaiScript modules
+- [imgui-chascript](https://github.com/JuJuBoSc/imgui-chaiscript) - ChaiScript bindings to the immediate mode graphical user interface
+- [QtChaiScript](https://github.com/facontidavide/QtChaiScript) - ChaiScript bindings to Qt
 
 ## Utilities
 
