@@ -10,7 +10,7 @@
 
 ## Game Development
 
-> Awesome game development libraries.
+*Awesome game development libraries.*
 
 - [ChaiLove](https://github.com/libretro/libretro-chailove) - 2D game framework based on Love2D
 - [Nymph Game Engine](https://github.com/sainteos/nymph-game-engine) - 2D tiled-based game engine
@@ -18,7 +18,7 @@
 
 ## Modules
 
-> Extensions to the ChaiScript language.
+*Extensions to the ChaiScript language.*
 
 - [ChaiScript Extras](https://github.com/ChaiScript/ChaiScript_Extras) - Community-contributed ChaiScript modules
 - [imgui-chascript](https://github.com/JuJuBoSc/imgui-chaiscript) - ChaiScript bindings to the immediate mode graphical user interface
@@ -26,7 +26,7 @@
 
 ## Utilities
 
-> Editor plugins and other uses.
+*Editor plugins and other uses.*
 
 - [Atom Language Support](https://github.com/marty1885/language-chaiscript)
 - [Notepad++ Language Support](https://github.com/ChaiScript/npp-chaiscript)
