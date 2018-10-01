@@ -24,6 +24,13 @@
 - [imgui-chascript](https://github.com/JuJuBoSc/imgui-chaiscript) - ChaiScript bindings to the immediate mode graphical user interface
 - [QtChaiScript](https://github.com/facontidavide/QtChaiScript) - ChaiScript bindings to Qt
 
+## Resources
+
+*Articles and videos in order to learn more about ChaiScript.*
+
+- [Intro to ChaiScript](https://www.youtube.com/watch?v=CeHSHEZg-PQ) by Jason Turner
+- [Easy to use scripting language for modern C++](https://mightynotes.wordpress.com/2017/02/12/chaiscript-tutorial-1-introduction-to-chaiscript/)
+
 ## Utilities
 
 *Editor plugins and other uses.*
@@ -32,6 +39,7 @@
 - [Notepad++ Language Support](https://github.com/ChaiScript/npp-chaiscript)
 - [Sublime Text Language Support](https://github.com/ChaiScript/sublimetext-chaiscript)
 - [vim ChaiScript support](https://github.com/ChaiScript/vim-chaiscript)
+
 
 ## License
 
