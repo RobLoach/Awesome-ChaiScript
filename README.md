@@ -23,6 +23,7 @@
 - [ChaiScript Extras](https://github.com/ChaiScript/ChaiScript_Extras) - Community-contributed ChaiScript modules
 - [imgui-chascript](https://github.com/JuJuBoSc/imgui-chaiscript) - ChaiScript bindings to the immediate mode graphical user interface
 - [QtChaiScript](https://github.com/facontidavide/QtChaiScript) - ChaiScript bindings to Qt
+- [ChaiScript_Extras_TmxParser](https://github.com/RobLoach/ChaiScript_Extras_TmxParser) - Tiled Map Editor support for ChaiScript
 
 ## Resources
 
