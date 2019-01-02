@@ -14,6 +14,7 @@
 
 - [ChaiLove](https://github.com/libretro/libretro-chailove) - 2D game framework based on Love2D
 - [Nymph Game Engine](https://github.com/sainteos/nymph-game-engine) - 2D tiled-based game engine
+- [raylib-chaiscript](https://github.com/RobLoach/raylib-chaiscript) - [Raylib](https://raylib.com) bindings for ChaiScript
 - [Spiced](https://github.com/ChaiScript/Spiced) - Tiled-based game engine using SFML
 
 ## Modules
