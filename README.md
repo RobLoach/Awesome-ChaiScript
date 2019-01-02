@@ -23,6 +23,7 @@
 - [ChaiScript Extras](https://github.com/ChaiScript/ChaiScript_Extras) - Community-contributed ChaiScript modules
 - [imgui-chascript](https://github.com/JuJuBoSc/imgui-chaiscript) - ChaiScript bindings to the immediate mode graphical user interface
 - [QtChaiScript](https://github.com/facontidavide/QtChaiScript) - ChaiScript bindings to Qt
+- [ChaiScript_Extras_Box2D](https://github.com/RobLoach/ChaiScript_Extras_Box2D) - ChaiScript bindings to [Box2D](https://github.com/erincatto/Box2D)
 
 ## Resources
 
