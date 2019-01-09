@@ -25,6 +25,7 @@
 - [imgui-chascript](https://github.com/JuJuBoSc/imgui-chaiscript) - ChaiScript bindings to the immediate mode graphical user interface
 - [QtChaiScript](https://github.com/facontidavide/QtChaiScript) - ChaiScript bindings to Qt
 - [ChaiScript_Extras_Box2D](https://github.com/RobLoach/ChaiScript_Extras_Box2D) - ChaiScript bindings to [Box2D](https://github.com/erincatto/Box2D)
+- [ChaiScript_Extras_Liquidfun](https://github.com/Alia5/ChaiScript_Extras_Liquidfun) - ChaiScript bindings to [Liquidfun](https://github.com/google/liquidfun)
 
 ## Resources
 
@@ -41,7 +42,6 @@
 - [Notepad++ Language Support](https://github.com/ChaiScript/npp-chaiscript)
 - [Sublime Text Language Support](https://github.com/ChaiScript/sublimetext-chaiscript)
 - [vim ChaiScript support](https://github.com/ChaiScript/vim-chaiscript)
-
 
 ## License
 
