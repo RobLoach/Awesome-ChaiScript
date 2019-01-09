@@ -41,6 +41,7 @@
 - [Notepad++ Language Support](https://github.com/ChaiScript/npp-chaiscript)
 - [Sublime Text Language Support](https://github.com/ChaiScript/sublimetext-chaiscript)
 - [vim ChaiScript support](https://github.com/ChaiScript/vim-chaiscript)
+- [VSCode ChaiScript support](https://github.com/codehz/vscode-chaiscript-syntax)
 
 
 ## License
