@@ -26,6 +26,7 @@
 - [QtChaiScript](https://github.com/facontidavide/QtChaiScript) - ChaiScript bindings to Qt
 - [ChaiScript_Extras_Box2D](https://github.com/RobLoach/ChaiScript_Extras_Box2D) - ChaiScript bindings to [Box2D](https://github.com/erincatto/Box2D)
 - [ChaiScript_Extras_Liquidfun](https://github.com/Alia5/ChaiScript_Extras_Liquidfun) - ChaiScript bindings to [Liquidfun](https://github.com/google/liquidfun)
+- [ChaiScript_Extras_SFML](https://github.com/Alia5/ChaiScript_Extras_SFML_) - ChaiScript bindings to [SFML](https://github.com/SFML/SFML)
 - [glm-chaiscript](https://github.com/Ybalrid/chaiscript-glm) - ChaiScript bindings to [GLM - OpenGL Mathematics](https://github.com/g-truc/glm)
 
 ## Resources
@@ -44,6 +45,7 @@
 - [Sublime Text Language Support](https://github.com/ChaiScript/sublimetext-chaiscript)
 - [vim ChaiScript support](https://github.com/ChaiScript/vim-chaiscript)
 - [VSCode ChaiScript support](https://github.com/codehz/vscode-chaiscript-syntax)
+- [TSChai - TypeScript to Chaiscript transpiler](https://github.com/Alia5/TSChai)
 
 ## License
 
